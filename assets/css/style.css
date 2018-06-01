@@ -1814,17 +1814,19 @@ Icon for all respective meta
     padding: 5px;
     box-shadow: 0 0px 0px 1px #eee;
 }
-.green_light{
-  color: #68c3a3;
-  color: black;
-
-}
-
 .green_light::first-letter{
   color: #68c3a3;
 }
+.green_light{
+  color: black !important;
+}
+
 .bolder_white{
   padding: 1em 0 1em 0;
   color: white;
   font-size: 2em;
+}
+.working{
+  width: 100%;
+  height: 230px;
 }
