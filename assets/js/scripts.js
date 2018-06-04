@@ -15,9 +15,7 @@ Author URL: trendytheme.net
     = More skill
     = Shuffle
     = Magnific Popup
-    = Vidio auto play
     = Fit Vids
-    = Google Map
 
 */
 
